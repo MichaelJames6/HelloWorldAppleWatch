@@ -1,0 +1,6 @@
+/Users/mikejames/Git/HelloAppleWatch/HelloWatchExtension/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/mikejames/Git/HelloAppleWatch/HelloWatchExtension/obj/iPhone/Debug/
+/Users/mikejames/Git/HelloAppleWatch/HelloWatchExtension/bin/iPhone/Debug/HelloWatchExtension.dll.mdb
+/Users/mikejames/Git/HelloAppleWatch/HelloWatchExtension/bin/iPhone/Debug/HelloWatchExtension.dll
+/Users/mikejames/Git/HelloAppleWatch/HelloWatchExtension/obj/iPhone/Debug/HelloWatchExtension.dll
+/Users/mikejames/Git/HelloAppleWatch/HelloWatchExtension/obj/iPhone/Debug/HelloWatchExtension.dll.mdb

@@ -1,0 +1,12 @@
+/Users/mikejames/Git/HelloAppleWatch/HelloWatch/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/mikejames/Git/HelloAppleWatch/HelloWatch/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/mikejames/Git/HelloAppleWatch/HelloWatch/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/mikejames/Git/HelloAppleWatch/HelloWatch/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/mikejames/Git/HelloAppleWatch/HelloWatch/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/mikejames/Git/HelloAppleWatch/HelloWatch/obj/iPhone/Debug/actool/partial-info.plist
+/Users/mikejames/Git/HelloAppleWatch/HelloWatch/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/mikejames/Git/HelloAppleWatch/HelloWatch/obj/iPhone/Debug/
+/Users/mikejames/Git/HelloAppleWatch/HelloWatch/bin/iPhone/Debug/HelloWatch.exe.mdb
+/Users/mikejames/Git/HelloAppleWatch/HelloWatch/bin/iPhone/Debug/HelloWatch.exe
+/Users/mikejames/Git/HelloAppleWatch/HelloWatch/obj/iPhone/Debug/HelloWatch.exe
+/Users/mikejames/Git/HelloAppleWatch/HelloWatch/obj/iPhone/Debug/HelloWatch.exe.mdb

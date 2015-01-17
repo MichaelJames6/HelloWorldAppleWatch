@@ -1,0 +1,3 @@
+/Users/mikejames/Git/HelloAppleWatch/HelloWatch/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+/Users/mikejames/Git/HelloAppleWatch/HelloWatch/obj/iPhone/Debug/mtouch-cache/32/Link/HelloWatch.exe
+/Users/mikejames/Git/HelloAppleWatch/HelloWatch/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll

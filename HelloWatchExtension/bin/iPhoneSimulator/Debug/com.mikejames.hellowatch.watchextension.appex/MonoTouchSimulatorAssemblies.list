@@ -1,0 +1,6 @@
+HelloWatchExtension.dll
+mscorlib.dll
+System.dll
+System.Xml.dll
+System.Core.dll
+Mono.Dynamic.Interpreter.dll

@@ -1,0 +1,30 @@
+# Version: 8.7.0.130 (72b04d1)
+# [first argument, ignore] # /Users/mikejames/Git/HelloAppleWatch/HelloWatchExtension/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.7.0.130/bin/mtouch-64 \
+	--cache \
+	/Users/mikejames/Git/HelloAppleWatch/HelloWatchExtension/obj/iPhone/Debug/mtouch-cache \
+	--dev \
+	/Users/mikejames/Git/HelloAppleWatch/HelloWatchExtension/bin/iPhone/Debug/com.mikejames.helloworld.watchextension.appex \
+	--executable \
+	com.mikejames.helloworld.watchextension \
+	--extension \
+	--debug \
+	--linksdkonly \
+	--sdkroot \
+	/Applications/Xcode-Beta.app/Contents/Developer \
+	--sdk \
+	8.2 \
+	--targetver \
+	8.2 \
+	--abi=armv7,arm64 \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	/Users/mikejames/Git/HelloAppleWatch/HelloWatchExtension/bin/iPhone/Debug//HelloWatchExtension.dll \

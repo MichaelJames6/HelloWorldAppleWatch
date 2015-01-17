@@ -1,0 +1,5 @@
+/Users/mikejames/Git/HelloAppleWatch/HelloWatchApp/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/mikejames/Git/HelloAppleWatch/HelloWatchApp/obj/iPhone/Debug/ibtool/Interface-glance.plist
+/Users/mikejames/Git/HelloAppleWatch/HelloWatchApp/obj/iPhone/Debug/ibtool/Interface-notification.plist
+/Users/mikejames/Git/HelloAppleWatch/HelloWatchApp/obj/iPhone/Debug/ibtool/Interface.plist
+/Users/mikejames/Git/HelloAppleWatch/HelloWatchApp/obj/iPhone/Debug/
