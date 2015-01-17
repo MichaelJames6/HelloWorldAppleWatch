@@ -3,3 +3,8 @@
 /Users/mikejames/Git/HelloAppleWatch/HelloWatchApp/obj/iPhoneSimulator/Debug/ibtool/Interface-notification.plist
 /Users/mikejames/Git/HelloAppleWatch/HelloWatchApp/obj/iPhoneSimulator/Debug/ibtool/Interface.plist
 /Users/mikejames/Git/HelloAppleWatch/HelloWatchApp/obj/iPhoneSimulator/Debug/
+/Users/mikejames/Git/HelloWorldAppleWatch/HelloWatchApp/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/mikejames/Git/HelloWorldAppleWatch/HelloWatchApp/obj/iPhoneSimulator/Debug/ibtool/Interface-glance.plist
+/Users/mikejames/Git/HelloWorldAppleWatch/HelloWatchApp/obj/iPhoneSimulator/Debug/ibtool/Interface-notification.plist
+/Users/mikejames/Git/HelloWorldAppleWatch/HelloWatchApp/obj/iPhoneSimulator/Debug/ibtool/Interface.plist
+/Users/mikejames/Git/HelloWorldAppleWatch/HelloWatchApp/obj/iPhoneSimulator/Debug/
