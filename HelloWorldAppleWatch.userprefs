@@ -1,9 +1,10 @@
 ﻿<Properties StartupItem="HelloWatchExtension/HelloWorldWatchExtension.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.2" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWatch/Info.plist">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWatchExtension/Info.plist">
     <Files>
       <File FileName="HelloWatchExtension/Info.plist" />
       <File FileName="HelloWatch/Info.plist" />
+      <File FileName="HelloWatchApp/Info.plist" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
