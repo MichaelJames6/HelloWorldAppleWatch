@@ -1,11 +1,11 @@
 # Hello World - Apple Watch
 
-![alt text](https://files.slack.com/files-pri/T03C6CW9H-F03CYMY2H/screen_shot_2015-01-17_at_22.25.41.png
+![alt text](http://micjames.co.uk/wp-content/uploads/2015/01/Screen-Shot-2015-01-17-at-22.25.41-e1421668170621.png
 "App watch")
 
-Xamarin has just announced preview support for Apple Watch which enables developers using the Unified API to add Apple Watch support to your existing iOS Apps.
+Xamarin has just announced preview support for Apple Watch which enables developers using the Unified API to add Apple Watch support to their existing iOS Apps.
 
-I've created a simple Hello World style app which demonstrates all the required parts of getting an app running in the simulator. 
+I've created a simple Hello World style app which demonstrates all the required parts of getting an app running in the simulator. This should help you in exploring how you can integrate this new form factor into your user experiance. 
 
 ## Prerequisites 
 
